@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "74d14edc-5999-42e2-97a4-820b021dab43",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 150,
+  "height": 150,
+  "platformSettings": {},
   "subMetas": {
     "arc90": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "ed62e4e2-50ef-47f4-8e3a-9cfac7dd3dc0",
+      "importer": "sprite-frame",
       "rawTextureUuid": "74d14edc-5999-42e2-97a4-820b021dab43",
       "trimType": "auto",
       "trimThreshold": 1,
